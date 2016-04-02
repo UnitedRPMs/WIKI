@@ -1,2 +1,1 @@
-# packages
-all packages
+**Multimedia packages for Fedora**
