@@ -1,0 +1,12 @@
+diff -up faad2-2.7/common/mp4ff/Makefile.in.pic faad2-2.7/common/mp4ff/Makefile.in
+--- faad2-2.7/common/mp4ff/Makefile.in.pic	2009-02-10 09:36:11.000000000 +0100
++++ faad2-2.7/common/mp4ff/Makefile.in	2009-03-14 12:38:40.000000000 +0100
+@@ -93,7 +94,7 @@ AUTOMAKE = @AUTOMAKE@
+ AWK = @AWK@
+ CC = @CC@
+ CCDEPMODE = @CCDEPMODE@
+-CFLAGS = @CFLAGS@
++CFLAGS = @CFLAGS@ -DPIC -fPIC
+ CPP = @CPP@
+ CPPFLAGS = @CPPFLAGS@
+ CXX = @CXX@
