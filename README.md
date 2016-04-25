@@ -7,3 +7,4 @@
 
 # dnf install vlc ffmpeg
 ```
+List of packages: https://goo.gl/PLMt15
