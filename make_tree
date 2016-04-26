@@ -24,6 +24,12 @@ rm -f /tmp/packages.txt
 
 wait ${!}
 
+if [ ! -d $HOME/enjoy24/srpm/ ]; then
+echo 'Sorry enjoy24 directory does not exit'
+echo 'make a directory - mkdir -p $HOME/enjoy24/srpm/ - and put src.rpm files here'
+exit
+fi
+
 # The script will make a new tree for ALL packages
  ls $HOME/enjoy24/srpm/ | grep .src.rpm | awk -F'-[0-9]' '{print $1}' | tee /tmp/packages.txt
 
