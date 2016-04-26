@@ -25,7 +25,7 @@ rm -f /tmp/packages.txt
 wait ${!}
 
 if [ ! -d $HOME/enjoy24/srpm/ ]; then
-echo 'Sorry enjoy24 directory does not exit'
+echo 'Sorry enjoy24 directory does not exist'
 echo 'make a directory - mkdir -p $HOME/enjoy24/srpm/ - and put src.rpm files here'
 exit
 fi
