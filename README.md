@@ -1,10 +1,10 @@
 **Multimedia packages for Fedora**
 
-*How to enable repository in your system:*
+List of packages: https://goo.gl/PLMt15
 
+*How to enable repository in your system:*
 ```
 # dnf config-manager --add-repo=http://fedoraunited.github.io/fedora-enjoy24.repo
 
-# dnf install vlc ffmpeg
+# dnf install vlc ffmpeg mpv
 ```
-List of packages: https://goo.gl/PLMt15
