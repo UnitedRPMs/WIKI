@@ -1,4 +1,4 @@
-## **Multimedia packages for Fedora**
+## **Multimedia packages for Fedora 24/25**
 
 ### List of packages: https://goo.gl/PLMt15
 
@@ -8,3 +8,5 @@
 
 # dnf install vlc ffmpeg mpv
 ```
+
+### Website (in progress) - https://fedoraunited.github.io/
