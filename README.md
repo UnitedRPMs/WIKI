@@ -9,4 +9,11 @@
 # dnf install vlc ffmpeg mpv
 ```
 
+### Mirror:
+
+```
+# dnf config-manager --add-repo=https://gitlab.com/FedoraUnited/repository/raw/master/fedora-enjoy24.repo
+# dnf install vlc ffmpeg mpv
+```
+
 ### Website (in progress) - https://fedoraunited.github.io/
