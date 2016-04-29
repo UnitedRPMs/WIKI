@@ -18,8 +18,3 @@
 
 ### Website (in progress) - https://fedoraunited.github.io/
 
-### Requests from users
-
-* avidemux-qt
-
-* guvcview
