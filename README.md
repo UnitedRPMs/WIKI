@@ -1,6 +1,6 @@
 ## **Multimedia packages for Fedora 24/25**
 
-### List of packages: https://goo.gl/PLMt15
+### List of packages: https://goo.gl/Yn0hWI
 
 ### *How to enable repository in your system:*
 
@@ -12,7 +12,7 @@
 ### Mirror:
 
 ```
-# dnf config-manager --add-repo=https://gitlab.com/FedoraUnited/repository/raw/master/fedora-enjoy24.repo
+# dnf config-manager --add-repo=https://gitlab.com/FedoraUnited/repository/raw/master/unitedrpms.repo
 # dnf install vlc ffmpeg mpv
 ```
 
