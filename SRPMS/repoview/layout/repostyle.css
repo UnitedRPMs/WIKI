@@ -1,0 +1,118 @@
+.nav {
+    text-align: right;
+    color: gray;
+    font-size: small;
+    }
+.nactive {
+    border-bottom: 1px dotted blue; 
+    background-color: lavender; 
+    color: blue;
+    font-size: small;
+    text-decoration: none;
+    }
+.ninactive {
+    color: gray; 
+    font-size: small; 
+    }
+.nlink {
+    text-decoration: none; 
+    color: blue; 
+    font-size: small; 
+    }
+.nlink:hover {
+    background-color: lavender; 
+    border-bottom: 1px dotted blue;
+    font-size: small; 
+    }
+.inpage {
+    text-decoration: none;
+    color: blue;
+    }
+.inpage:hover {
+    background-color: mistyrose;
+    color: red;
+    border-bottom: 1px dotted red;
+    }
+.levbar {
+    position: absolute; 
+    top: 0px; 
+    left: 0px;
+    width: 11em; 
+    height: 100%; 
+    border-right: 4px dotted gray; 
+    border-bottom: 4px dotted gray; 
+    background-color: gainsboro;
+    }
+.main {
+    position: absolute; 
+    left: 13em; 
+    width: 75%;
+    }
+h1,h2,h3,h4,h5 {
+    border-bottom: 1px dotted gray; 
+    border-top: 1px dotted gray;
+    background-color: whitesmoke; 
+    font-weight: normal;
+    }
+.pagetitle {
+    border-top: 1px dotted gray; 
+    border-bottom: 1px dotted gray;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    width: 100%;
+    color: gray; 
+    background-color: white;
+    }
+dt  {
+    font-weight: bold;
+    margin-top: 1%;
+    }
+th  {
+    background-color: whitesmoke;
+    text-align: left;
+    }
+.field  {
+    background-color: whitesmoke;
+    text-align: right;
+    }
+.levbarlist {
+    list-style-type: none;
+    padding: 5%;
+    border-top: 1px dotted gray;
+    border-bottom: 1px dotted gray;
+    background-color: whitesmoke;
+    }
+.pkglist {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    list-style-type: circle;
+    }
+.letterlist {
+    background-color: whitesmoke;
+    }
+.letterlist a {
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    }
+.footernote {
+    text-align: right;
+    font-size: small;
+    background-color: whitesmoke;
+    border-top: 1px dotted gray;
+    color: gray;
+    }
+.repoview {
+    text-decoration: none;
+    color: gray;
+    border-bottom: 1px dotted gray;
+    font-size: small; 
+    }
+.repoview:hover {
+    background-color: lavender; 
+    border-bottom: 1px dotted blue;
+    color: blue;
+    font-size: small; 
+    }

@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<title>RepoView: Repoview</title>
+  <link href="layout/repostyle.css" type="text/css" rel="stylesheet" />
+  <meta content="noindex,follow" name="robots" />
+</head>
+<body>
+    <div class="levbar">
+      <p class="pagetitle">applications/internet</p>
+      <ul class="levbarlist">
+        <li>
+        <a href="applications.internet.group.html" class="nlink" title="Back to package listing">« Back to group</a>
+    </li>
+    </ul>
+    </div>
+    <div class="main">
+        <p class="nav">Jump to letter: [
+          <span class="letterlist">
+            <a href="letter_a.group.html" class="nlink">A</a><a href="letter_c.group.html" class="nlink">C</a><a href="letter_d.group.html" class="nlink">D</a><a href="letter_f.group.html" class="nlink">F</a><a href="letter_g.group.html" class="nlink">G</a><a href="letter_h.group.html" class="nlink">H</a><a href="letter_i.group.html" class="nlink">I</a><a href="letter_j.group.html" class="nlink">J</a><a href="letter_k.group.html" class="nlink">K</a><a href="letter_l.group.html" class="nlink">L</a><a href="letter_m.group.html" class="nlink">M</a><a href="letter_o.group.html" class="nlink">O</a><a href="letter_p.group.html" class="nlink">P</a><a href="letter_r.group.html" class="nlink">R</a><a href="letter_s.group.html" class="nlink">S</a><a href="letter_t.group.html" class="nlink">T</a><a href="letter_v.group.html" class="nlink">V</a><a href="letter_x.group.html" class="nlink">X</a><a href="letter_z.group.html" class="nlink">Z</a>
+          </span>]
+        </p>
+        <h2>freshplayerplugin - PPAPI-host NPAPI-plugin adapter</h2>
+        <table cellpadding="2" cellspacing="0" border="0">
+          <tr>
+            <th>Website:</th>
+            <td><a href="https://github.com/i-rinat/freshplayerplugin">https://github.com/i-rinat/freshplayerplugin</a></td>
+          </tr>
+          <tr>
+            <th>License:</th>
+            <td>MIT</td>
+          </tr>
+        </table>
+        <dl>
+        <dt>Description:</dt>
+        <dd><pre>As you know, Adobe have suspended further development of Flash player plugin
+for GNU/Linux. Latest available as an NPAPI plugin version 11.2 will get
+security updates for five years (since its release on May 4th, 2012), but
+further development have been ceased.
+Fortunately or not, newer versions are still available for Linux as a part of
+Chrome browser, where Flash comes bundled in a form of PPAPI plugin. PPAPI or
+Pepper Plugin API is an interface promoted by Chromium/Chrome team for browser
+plugins.
+It's NPAPI-inspired yet significantly different API which have every
+conceivable function plugin may want. Two-dimensional graphics, OpenGL ES,
+font rendering, network access, audio, and so on.
+It's huge, there are 107 groups of functions, called interfaces which today's
+Chromium browser offers to plugins.
+And specs are not final yet. Interfaces are changing, newer versions are
+arising, older ones are getting deleted. For various reasons Firefox
+developers are not interested now in implementing PPAPI in Firefox.
+However that does not mean it cannot be done.
+The main goal of this project is to get PPAPI (Pepper) Flash player working
+in Firefox. This can be done in two ways. First one is to implement full PPAPI
+interface in Firefox itself.
+Other one is to implement a wrapper, some kind of adapter which will look like
+browser to PPAPI plugin and look like NPAPI plugin for browser.
+First approach requires strong knowledge of Firefox internals,and moreover
+additional effort to get the code into mainstream.
+Maintaining a set of patches doesn't look like a good idea.
+Second approach allows to concentrate on two APIs only.
+Yes one of them is big, but still graspable.
+Second way will be used for the project. It will benefit other browsers too,
+not only Firefox.</pre></dd>
+        </dl>
+        <h3>Packages</h3>
+        <table cellpadding="0" cellspacing="10" border="0">
+        <tr>
+            <td valign="top"><a href="../freshplayerplugin-0.3.5-1.fc24.src.rpm" class="inpage">freshplayerplugin-0.3.5-1.fc24.src</a>
+              [<span style="white-space: nowrap">770 KiB</span>]</td>
+            <td valign="top">
+              <strong>Changelog</strong>
+              by <span>Sérgio Basto (2016-04-19)</span>:
+              <pre style="margin: 0pt 0pt 5pt 5pt">- Update to 0.3.5</pre>
+            </td>
+        </tr>
+        </table>
+        <p class="footernote">
+          Listing created by
+          <a href="https://fedorahosted.org/repoview/" class="repoview">Repoview-0.6.6-8.fc24</a>
+        </p>
+    </div>
+</body>
+</html>
