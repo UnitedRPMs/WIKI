@@ -9,11 +9,4 @@
 # dnf install vlc ffmpeg mpv
 ```
 
-### Mirror:
-
-```
-# dnf config-manager --add-repo=https://gitlab.com/FedoraUnited/repository/raw/master/unitedrpms.repo
-# dnf install vlc ffmpeg mpv
-```
-
 ### Website - https://unitedrpms.github.io/
