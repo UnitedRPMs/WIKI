@@ -4,9 +4,6 @@
 
 ### *How to enable repository in your system:*
 
-```
-# dnf config-manager --add-repo=http://unitedrpms.github.io/unitedrpms.repo
-# dnf install vlc ffmpeg mpv
-```
+[Instructions](https://github.com/UnitedRPMs/unitedrpms.github.io/blob/master/README.md)
 
 ### Website - https://unitedrpms.github.io/
