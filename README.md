@@ -4,6 +4,6 @@
 
 ### [How to enable repository in your system](https://github.com/UnitedRPMs/unitedrpms.github.io/blob/master/README.md)
 
-### [List of packages and latest updates](https://goo.gl/Yn0hWI)
+### [List of packages and latest updates](https://sourceforge.net/projects/unitedrpms/files/repository/)
 
 ### [Wiki](https://github.com/UnitedRPMs/packages/wiki/)
