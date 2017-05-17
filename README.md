@@ -1,9 +1,9 @@
-## **Multimedia packages for Fedora 24/25**
+## **Multimedia packages for Fedora 24/27**
 
 ### [Website](https://unitedrpms.github.io/)
 
-### [How to enable repository in your system](https://github.com/UnitedRPMs/unitedrpms.github.io/blob/master/README.md)
+### [How to enable repository in your system](https://github.com/UnitedRPMs/WIKI/wiki/How-to-enable-the-UnitedRPMs-repository-in-your-system)
 
-### [List of packages and latest updates](https://sourceforge.net/projects/unitedrpms/files/repository/)
+### [List of packages and latest updates](https://unitedrpms.sourceforge.io/x86_64/repoview/)
 
-### [Wiki](https://github.com/UnitedRPMs/packages/wiki/)
+### [Wiki](https://github.com/UnitedRPMs/WIKI/wiki)
