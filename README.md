@@ -1,4 +1,4 @@
-## **Multimedia packages for Fedora 26/29**
+## **Multimedia packages for Fedora 29/31**
 
 ### [Website](https://unitedrpms.github.io/)
 
