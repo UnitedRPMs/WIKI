@@ -7,3 +7,6 @@
 ### [List of packages and latest updates](https://unitedrpms.sourceforge.io/x86_64/repoview/)
 
 ### [Wiki](https://github.com/UnitedRPMs/WIKI/wiki)
+
+## [Disclaimer](https://github.com/UnitedRPMs/WIKI/wiki/Disclaimer)
+
