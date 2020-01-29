@@ -8,5 +8,5 @@
 
 ### [Wiki](https://github.com/UnitedRPMs/WIKI/wiki)
 
-## [Disclaimer](https://github.com/UnitedRPMs/WIKI/wiki/Disclaimer)
+### [Disclaimer](https://github.com/UnitedRPMs/WIKI/wiki/Disclaimer)
 
